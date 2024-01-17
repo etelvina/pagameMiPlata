@@ -1,0 +1,7 @@
+{
+  "name": "pagameMiPlata",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
